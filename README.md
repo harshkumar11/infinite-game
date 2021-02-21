@@ -1,0 +1,2 @@
+# infinite-game
+ok
